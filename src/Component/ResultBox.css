@@ -1,0 +1,17 @@
+.ResultBox{
+    text-align: center;
+    width: 60%;
+    margin:auto;
+    border: 1px solid #eeeeee;
+    box-shadow: #eeeeee;
+    padding: 16px;
+    margin-top: 20px;
+
+
+}
+.red{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+}
